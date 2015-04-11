@@ -13,5 +13,5 @@ Interactions that work in the demo:
 - Main menu (top left)
 - Category menu (bottom left)
 - ACDC Card (focus)
-- Add to card button
+- Add to cart button
 - Jack Queen card
